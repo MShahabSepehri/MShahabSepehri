@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MShahabSepehri
-- 👀 I’m interested in machine learning, causality and computer vision
+- 👀 I’m interested in computer vision, machine learning, deep learning, and causal inference
 - 🌱 I’m currently learning electrical engineering and computer science
 - 📫 You can reach me via my email m.shsepehri78@gmail.com
 
