@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MShahabSepehri
 - 👀 I’m interested in the reliability and efficiency of AI. I also work on the applications of AI inthe  sciences.
-- 📕 I’m currently studying electrical engineering and computer science at USC
+- 📕 I’m an ECE PhD student at USC
 - 📫 You can reach me via my email m.shsepehri78@gmail.com
 
 <!---
